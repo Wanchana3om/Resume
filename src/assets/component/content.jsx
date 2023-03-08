@@ -73,25 +73,25 @@ function Content() {
           <div className="content-tools">
             <div className="content-organize-box">
               <Tools
-                image="/public/image/figma.webp"
+                image="/image/figma.webp"
                 alt="figma"
                 title="Figma"
                 description="UI Disign"
               />
               <Tools
-                image="/public/image/notion.png"
+                image="/image/notion.png"
                 alt="notion"
                 title="Notion"
                 description="Project Management"
               />
               <Tools
-                image="/public/image/vscode.ico"
+                image="/image/vscode.ico"
                 alt="vscode"
                 title="VS Code"
                 description="Code editor"
               />
               <Tools
-                image="/public/image/xcode.png"
+                image="/image/xcode.png"
                 alt="xcode"
                 title="Xcode"
                 description="iOS development"

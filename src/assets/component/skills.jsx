@@ -8,7 +8,7 @@ function Skills() {
           <div>
             <img
               className="code-img"
-              src="/public/image/code.jpg"
+              src="/image/code.jpg"
               alt="symbolCodeSkills"
             />
           </div>
@@ -56,7 +56,7 @@ function Skills() {
           <div>
             <img
               className="code-img"
-              src="/public/image/adobe.png"
+              src="/image/adobe.png"
               alt="symbolAdobeSkills"
             />
           </div>
