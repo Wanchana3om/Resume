@@ -42,10 +42,10 @@ function Skills() {
               <p9>HTML</p9>
             </div>
           </div>
-          <div className="get-line">
+          <div className="get-line2">
             <p9>CSS</p9>
           </div>
-          <div className="get-line">
+          <div className="get-line2">
             <p9>JS</p9>
           </div>
         </div>
@@ -60,7 +60,7 @@ function Skills() {
               alt="symbolAdobeSkills"
             />
           </div>
-          <p1>Another Skills</p1>
+          <p1>PosonalSkills</p1>
         </div>
         <div className="canva">
           <div>
@@ -81,7 +81,7 @@ function Skills() {
           <div className="get-line">
             <p10>Excel</p10>
           </div>
-          <div className="get-line">
+          <div className="get-line3">
             <p10>Power Point</p10>
           </div>
         </div>

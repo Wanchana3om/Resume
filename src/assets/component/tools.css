@@ -4,7 +4,7 @@
   background-image: linear-gradient(
     150deg,
     rgb(228, 255, 250),
-    rgb(255, 239, 239)
+    rgb(255, 241, 239)
   );
   margin: 5px;
   border-radius: 20px;
@@ -17,7 +17,8 @@
   justify-content: center;
   align-items: center;
 }
+
 .tool-image {
-  width: 60%;
+  width: 50px;
   border-radius: 50%;
 }

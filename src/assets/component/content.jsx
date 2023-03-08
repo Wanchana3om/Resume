@@ -19,8 +19,8 @@ function Content() {
           </div>
         </div>
       </div>
-      <div className="content-container-cover">
-        <div className="experience">
+      <div className="content-container-cover2">
+        <div className="education">
           <div className="content-topic">
             <div>
               <h2>Education</h2>
@@ -51,7 +51,7 @@ function Content() {
           </div>
         </div>
       </div>
-      <div className="content-container-cover">
+      <div className="content-container-cover3">
         <div className="skills">
           <div className="content-topic">
             <div>
