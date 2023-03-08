@@ -1,0 +1,48 @@
+.experience-box {
+  background-image: linear-gradient(
+    90deg,
+    rgb(241, 252, 251),
+    rgb(245, 238, 255)
+  );
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 6px;
+  margin-top: 5px;
+}
+
+.experience-box-title {
+  margin-bottom: 10px;
+}
+
+.experience-box-content {
+  width: 100%;
+}
+
+.experience-box-time {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+p3 {
+  font-family: dmsans;
+  color: #79819a;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+p4 {
+  font-family: dmsans;
+  color: #2e2e48;
+  font-weight: 500;
+}
+
+p5 {
+  font-family: dmsans;
+  color: #47516b;
+  font-weight: 300;
+  font-size: 14px;
+}

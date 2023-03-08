@@ -1,0 +1,33 @@
+h2 {
+  font-family: outfit;
+  font-weight: 500;
+  font-size: 30px;
+  color: #312163;
+}
+
+.content-education {
+  display: flex;
+  width: 100%;
+}
+
+.content-topic {
+  padding-bottom: 40px;
+}
+
+.experience,
+.skills,
+.tools {
+  margin-bottom: 30px;
+}
+.content-experience,
+.content-skills,
+.content-tools {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.content-organize-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

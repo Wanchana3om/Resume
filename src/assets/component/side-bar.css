@@ -1,10 +1,106 @@
-
-.sidebar-container {
-    width: 73%;
-    margin: 0 auto;
+@font-face {
+  font-family: outfit;
+  src: url(/Outfit-VariableFont_wght.ttf);
 }
 
-h2 {
-  font-family: Arial, Helvetica, sans-serif;
+@font-face {
+  font-family: dmsans;
+  src: url(/DMSans-Regular.ttf);
+}
 
+.sidebar-container {
+  width: 73%;
+  margin: 0 auto;
+}
+.profile-name {
+  width: 100%;
+}
+.profile-pic {
+  width: 90%;
+  height: 10%;
+  margin: 40px 0;
+}
+
+.profile-moto {
+  margin: 24px 0;
+  display: flex;
+  text-align: center;
+}
+
+.profile {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.425);
+  margin-bottom: 40px;
+}
+
+.contacts {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.425);
+  margin-bottom: 10px;
+}
+
+.my-profile {
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.moto {
+  position: relative;
+}
+
+.Quotation1 {
+  width: 20px;
+  position: absolute;
+  top: 0;
+  left: -20px;
+}
+
+.Quotation2 {
+  width: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 20px;
+}
+
+.socail-topic {
+  margin-bottom: 10px;
+}
+
+.socials {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.425);
+  margin-bottom: 10px;
+}
+.softskill-list {
+  margin-left: 60px;
+  line-height: 50px;
+  padding-bottom: 50px;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  color: #312163;
+  font-family: outfit;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: outfit;
+  font-weight: 500;
+  line-height: 40px;
+  color: #47516b;
+}
+
+.softskill-topic {
+  margin-bottom: 10px;
+}
+
+li {
+  font-family: dmsans;
+}
+
+a {
+  font-family: dmsans;
+  text-decoration: none;
 }

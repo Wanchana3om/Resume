@@ -1,0 +1,22 @@
+.contact {
+  display: flex;
+  margin-bottom: 20px;
+}
+.content-logo {
+  width: 50px;
+}
+.content-descript {
+  display: block;
+  margin-left: 30px;
+}
+
+p1 {
+  line-height: 25px;
+  font-family: dmsans;
+  color: gray;
+}
+
+p2 {
+  color: #47516b;
+  font-family: dmsans;
+}

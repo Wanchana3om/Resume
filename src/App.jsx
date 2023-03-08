@@ -1,23 +1,26 @@
-import reactLogo from './assets/react.svg'
-import './App.css'
-import SideBar from './assets/component/side-bar'
+import reactLogo from "./assets/react.svg";
+import "./App.css";
+import SideBar from "./assets/component/side-bar";
+import Contacts from "./assets/component/contact-box";
+import Content from "./assets/component/content";
 
 function App() {
-
   return (
     <div className="App">
-      <div className='www'>
-      <body>
-        <div className='side-bar'>
-          <SideBar/>
+      <div className="App-body">
+        <div className="App-container">
+          <div className="App-side-bar">
+            <SideBar />
+          </div>
+          <div className="App-content">
+            <div className="App-content-cover">
+              <Content />
+            </div>
+          </div>
         </div>
-        <div className='content'>
-          
-        </div>
-      </body>
       </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
